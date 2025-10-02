@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Docker\source\repos\codecaveDll\codecaveDll\dllmain.cpp(22): warning C4405: 'esi': identifier is reserved word
+C:\Users\Docker\source\repos\codecaveDll\codecaveDll\dllmain.cpp(22,7): error C2400: inline assembler syntax error in 'opcode'; found 'esi'
+C:\Users\Docker\source\repos\codecaveDll\codecaveDll\dllmain.cpp(33,18): warning C4553: '==': result of expression not used; did you intend '='?
